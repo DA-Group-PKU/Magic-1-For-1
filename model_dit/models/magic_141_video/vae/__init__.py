@@ -12,7 +12,7 @@ def load_vae(vae_type: str="884-16c-hy",
              logger=None,
              device=None
              ):
-    """the fucntion to load the 3D VAE model
+    """the function to load the 3D VAE model
 
     Args:
         vae_type (str): the type of the 3D VAE model. Defaults to "884-16c-hy".
